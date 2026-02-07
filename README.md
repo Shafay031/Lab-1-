@@ -1,3 +1,8 @@
+**Digital Forensics**
+
+**Lab 1**
+
+
 1.If we wanted to list all the .txt files in the current directory, what command would we want to use?
 
 Ans.we can use "ls *.txt" command to list all txt files.
